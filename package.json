@@ -1,0 +1,27 @@
+{
+  "name": "gulp-searchy",
+  "version": "1.0.0",
+  "description": "A string search plugin for gulp",
+  "main": "index.js",
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "readable-stream": "^2.0.1",
+    "sort-keys": "^1.0.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "search",
+    "searchy",
+    "find",
+    "regex"
+  ],
+  "author": {
+    "name": "liangkuaisheng",
+    "email": "kuaisheng@126.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "directories": {}
+}
