@@ -15,13 +15,21 @@
     "find",
     "regex"
   ],
-  "author": {
-    "name": "liangkuaisheng",
-    "email": "kuaisheng@126.com"
-  },
+  "author": "Sander Keymeulen <sander.keymeulen@cloudalize.com>",
   "license": "MIT",
   "engines": {
     "node": ">=0.12"
   },
-  "directories": {}
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skeymeulen/gulp-searchy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skeymeulen/gulp-searchy/issues"
+  },
+  "homepage": "https://github.com/skeymeulen/gulp-searchy#readme"
 }
