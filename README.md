@@ -58,7 +58,7 @@ Type: `string`
 Default: `'gulp-search-manifest.json'`
 
 ##### options.group
-If you want a specific regex group to be captured
+If you want a specific regex group to be captured  
 Type: `integer`
 
 
