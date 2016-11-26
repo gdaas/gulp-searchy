@@ -44,7 +44,7 @@ module.exports = function(regexp, fn, opt) {
             if(options.group) {
               var matches = [];
               while (matches = regexp.exec(str)) {
-                entris.push(matches[1]);
+                entris.push(matches[options.group]);
               }
             }  else {
               entris = str.match(regexp);
